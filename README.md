@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 15 Simple React Projects
 
-## Getting Started
+## Run this Code
 
-First, run the development server:
+1. First of all Navigate to the Folder yo want to open.
+2. Let's say I want to navigate to the Birthday Reminder Folder.
+3. Use the ```cd``` command in the terminal to navigate to the Birthday Reminder Folder.
+4. Then Use the ```cd``` command again in the terminal to navigate to the final directory.
+5. Then once you are inside the final directory type ```npm install && npm start``` in the Terminal.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+> Note that this will take some time, so be patient.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This should open your project in the Default Browser of your system.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<!-- ## Tutorial Video
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+(React Tutorial)[https://youtu.be/iZhV0bILFb0]
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## All Projects 
 
-## Learn More
+[Projects Site](https://react-projects.netlify.app/)
 
-To learn more about Next.js, take a look at the following resources:
+-->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Corresponding Tutorial Topics
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## UseState
 
-## Deploy on Vercel
+1. Birthday Reminder
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## UseEffect and Conditional Rendering
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Slider
+
+## Forms
+
+8. Lorem Ipsum Generator
+9. Color Shades Generator
+10. Grocery Bud
+
+## UseRef
+
+11. Navbar
+
+## UseContext
+
+12. Modal And Sidebar
+13. Stripe Submenus
+
+## UseReducer and UseContext
+
+14. Cart
+
+## React Router and UseCallback
+
+15. Cocktails
