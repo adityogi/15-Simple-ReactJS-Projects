@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import useSWR from 'swr'
 import { Flex, Box, Text, Button } from '@chakra-ui/react';
 
 import Property from '../components/Property';
